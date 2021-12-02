@@ -48,6 +48,7 @@
     "lodash": "4.17.14",
     "merkle-patricia-tree": "2.3.2",
     "seedrandom": "3.0.1",
+    "sha3": "^2.1.4",
     "source-map-support": "0.5.12",
     "superagent": "5.2.2",
     "tmp": "0.1.0",

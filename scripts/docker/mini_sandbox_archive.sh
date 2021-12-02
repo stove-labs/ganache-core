@@ -22,7 +22,7 @@ all_commands="$all_commands
 start () {
     flextesa mini \
              --root /tmp/mini-ganache-net --size 1 "$@" \
-             --time-between-blocks 0 \
+             --time-between-blocks 2 \
              --timestamp-delay 0 \
              --no-baking \
              --set-history-mode N000:archive

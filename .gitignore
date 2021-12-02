@@ -10,3 +10,4 @@ build
 npm-shrinkwrap.json.bak
 test/testdb
 .nyc_output/
+coverage
